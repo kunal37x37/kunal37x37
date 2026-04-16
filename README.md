@@ -1,16 +1,37 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Kunal Patel</h1>
+<h3 align="center">Full Stack Developer | AI & ML Enthusiast</h3>
 
-<!--
-**kunal37x37/kunal37x37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🎓 Pursuing B.Tech in Computer Science
+- 💻 Passionate about Web Development & AI
+- 🔥 Building Real-world Projects
+- 🌱 Currently learning MERN Stack & Advanced DSA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+- Frontend: HTML, CSS, JavaScript, React
+- Backend: Node.js, Express
+- Database: MySQL, MongoDB
+- Tools: Git, GitHub, VS Code
+
+---
+
+## 📌 Projects
+- 🎬 Movie Booking System  
+- 🚗 AutoGarage Vehicle Service App  
+- 🏥 Healthcare Support App (AI Integrated)  
+- 🌐 Personal Portfolio Website  
+
+---
+
+## 📊 GitHub Stats
+![Kunal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kunal37x37&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Connect with Me
+- LinkedIn: (add link)
+- Email: (your email)
