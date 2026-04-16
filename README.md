@@ -1,6 +1,6 @@
 <!-- 🔥 CUSTOM BANNER -->
 <p align="center">
-  <img src="https://github.com/kunal37x37/kunal37x37/blob/main/banner.png?raw=true" width="100%" />
+  <img src="https://raw.githubusercontent.com/kunal37x37/kunal37x37/main/assite/1774510577057.jpg" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Kunal Patel</h1>
@@ -26,10 +26,10 @@
 
 ## 🚀 Featured Projects
 
-- 🎬 **Movie Booking System**  
-- 🚗 **AutoGarage Vehicle Service App (MERN Stack)**  
-- 🏥 **Healthcare Support App with AI Integration**  
-- 🌐 **Personal Portfolio Website**  
+- 🎬 Movie Booking System  
+- 🚗 AutoGarage Vehicle Service App (MERN Stack)  
+- 🏥 Healthcare Support App with AI Integration  
+- 🌐 Personal Portfolio Website  
 
 ---
 
