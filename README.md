@@ -61,6 +61,14 @@ Interactive dashboard for IPL data analysis with player stats & match insights.
 🛠 Tech: `Power BI` `DAX` `Excel` `Data Visualization`
 
 ---
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kunal37x37&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunal37x37&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+---
 
 ## 🌐 Connect with Me
 
