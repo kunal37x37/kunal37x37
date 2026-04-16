@@ -62,15 +62,6 @@ Interactive dashboard for IPL data analysis with player stats & match insights.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kunal37x37&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunal37x37&theme=tokyonight" />
-</p>
-
----
-
 ## 🌐 Connect with Me
 
 <p align="center">
