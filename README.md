@@ -48,7 +48,7 @@ Vehicle service booking platform with authentication, admin panel & service hist
 
 ---
 
-### 🔧 AutoGarage – PHP/MySQL
+### 🔧 AutoGarage – PHP/jsx/MySQL
 Vehicle service system with appointment scheduling & admin dashboard.
 
 🛠 Tech: `PHP` `MySQL` `JavaScript` `Bootstrap`
