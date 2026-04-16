@@ -24,14 +24,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-- 🎬 Movie Booking System  
-- 🚗 AutoGarage Vehicle Service App (MERN Stack)  
-- 🏥 Healthcare Support App with AI Integration  
-- 🌐 Personal Portfolio Website  
-
----
 
 ## 📊 GitHub Stats
 
