@@ -24,12 +24,20 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 My Projects
+
 
 ### 🎬 Movie Booking System (ASP.NET Core)
 Complete movie booking system with seat selection, payment integration, and admin dashboard.
 
 🛠 Tech: `ASP.NET Core` `C#` `SQL Server` `JavaScript`
+
+---
+
+### 🎬 Movie Booking System (MERN Stack)
+Modern movie booking platform with user authentication, real-time seat selection, and booking management.
+
+🛠 Tech: `React` `Node.js` `MongoDB` `Express`
 
 ---
 
