@@ -24,6 +24,35 @@
 
 ---
 
+## 🚀 Featured Projects
+
+### 🎬 Movie Booking System (ASP.NET Core)
+Complete movie booking system with seat selection, payment integration, and admin dashboard.
+
+🛠 Tech: `ASP.NET Core` `C#` `SQL Server` `JavaScript`
+
+---
+
+### 🚗 AutoGarage – MERN Stack
+Vehicle service booking platform with authentication, admin panel & service history.
+
+🛠 Tech: `React` `Node.js` `MongoDB` `Express`
+
+---
+
+### 🔧 AutoGarage – PHP/MySQL
+Vehicle service system with appointment scheduling & admin dashboard.
+
+🛠 Tech: `PHP` `MySQL` `JavaScript` `Bootstrap`
+
+---
+
+### 📊 IPL Analytics Dashboard (Power BI)
+Interactive dashboard for IPL data analysis with player stats & match insights.
+
+🛠 Tech: `Power BI` `DAX` `Excel` `Data Visualization`
+
+---
 
 ## 📊 GitHub Stats
 
