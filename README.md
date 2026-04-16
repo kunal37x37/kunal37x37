@@ -1,37 +1,66 @@
+<!-- 🔥 CUSTOM BANNER -->
+<p align="center">
+  <img src="https://github.com/kunal37x37/kunal37x37/blob/main/banner.png?raw=true" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Kunal Patel</h1>
-<h3 align="center">Full Stack Developer | AI & ML Enthusiast</h3>
+<h3 align="center">Full Stack Developer | MERN | AI & ML Enthusiast 🚀</h3>
 
 ---
 
-## 🚀 About Me
-- 🎓 Pursuing B.Tech in Computer Science
-- 💻 Passionate about Web Development & AI
-- 🔥 Building Real-world Projects
-- 🌱 Currently learning MERN Stack & Advanced DSA
+## 🧠 About Me
+- 🎓 Pursuing B.Tech in Computer Science Engineering  
+- 💻 Passionate about Full Stack Development  
+- 🤖 Interested in AI, ML & Cybersecurity  
+- 🚀 Building real-world impactful projects  
 
 ---
 
-## 🛠️ Tech Stack
-- Frontend: HTML, CSS, JavaScript, React
-- Backend: Node.js, Express
-- Database: MySQL, MongoDB
-- Tools: Git, GitHub, VS Code
+## ⚙️ Technologies & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,python,java,git,github,vscode" />
+</p>
 
 ---
 
-## 📌 Projects
-- 🎬 Movie Booking System  
-- 🚗 AutoGarage Vehicle Service App  
-- 🏥 Healthcare Support App (AI Integrated)  
-- 🌐 Personal Portfolio Website  
+## 🚀 Featured Projects
+
+- 🎬 **Movie Booking System**  
+- 🚗 **AutoGarage Vehicle Service App (MERN Stack)**  
+- 🏥 **Healthcare Support App with AI Integration**  
+- 🌐 **Personal Portfolio Website**  
 
 ---
 
 ## 📊 GitHub Stats
-![Kunal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kunal37x37&show_icons=true&theme=tokyonight)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kunal37x37&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunal37x37&theme=tokyonight" />
+</p>
 
 ---
 
-## 📫 Connect with Me
-- LinkedIn: (add link)
-- Email: (your email)
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:YOUR-EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+  </a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+💡 I build projects that solve real-life problems and improve skills daily 🚀
+
+---
+
+<!-- 🔥 FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer"/>
+</p>
